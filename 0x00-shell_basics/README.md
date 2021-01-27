@@ -9,3 +9,4 @@
 * 7-movethatfile - _Moves Betty from /tmp/ to /tmp/holberton/_
 * 8-firstdelete - _Deletes Betty from /tmp/holberton/_
 * 9-firstdirdeletion - _Deletes holberton Dir from /tmp/_
+* 10-back - _Changes working Dir to the previous one_
