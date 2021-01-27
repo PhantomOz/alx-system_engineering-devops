@@ -5,3 +5,4 @@
 * 3-listfiles - _Displays current directory contents in a long format_
 * 4-listmorefiles - _Displays Hidden files in current directory contents in a long format_
 * 5-listfilesdigitonly - _Displays content of user & ids in long format_
+* 6-firstdirectory - _creates a holberton directory in '/tmp/'_
