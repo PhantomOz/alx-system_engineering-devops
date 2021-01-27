@@ -7,3 +7,4 @@
 * 5-listfilesdigitonly - _Displays content of user & ids in long format_
 * 6-firstdirectory - _creates a holberton directory in '/tmp/'_
 * 7-movethatfile - _Moves Betty from /tmp/ to /tmp/holberton/_
+* 8-firstdelete - _Deletes Betty from /tmp/holberton/_
