@@ -1,0 +1,1 @@
+**This repo contains the task related to project 0x00-shell**
