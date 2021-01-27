@@ -10,3 +10,4 @@
 * 8-firstdelete - _Deletes Betty from /tmp/holberton/_
 * 9-firstdirdeletion - _Deletes holberton Dir from /tmp/_
 * 10-back - _Changes working Dir to the previous one_
+* 12-file_type - _finding type of file 'iamafile' is_
