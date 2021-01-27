@@ -4,3 +4,4 @@
 * 2-bring_me_home - _Takes you to the home directory_
 * 3-listfiles - _Displays current directory contents in a long format_
 * 4-listmorefiles - _Displays Hidden files in current directory contents in a long format_
+* 5-listfilesdigitonly - _Displays content of user & ids in long format_
