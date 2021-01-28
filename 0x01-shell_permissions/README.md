@@ -1,0 +1,1 @@
+**This Directory contains some permissions we carry out in ubuntu shell**
